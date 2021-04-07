@@ -79,7 +79,6 @@ def run():
         .selectCountry('denmark', True).selectMultipleValues(['alabama', 'alaska', 'colorado']) \
         .selectTerritories('Virgin Islands').selectFile('C')
 
-    time.sleep(1)
     driver.quit()
 
 
