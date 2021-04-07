@@ -1,0 +1,5 @@
+/chromedriver.exe
+/geckodriver.exe
+/geckodriver.log
+/ignoreit.py
+./.idea
